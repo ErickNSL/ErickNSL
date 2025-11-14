@@ -4,9 +4,9 @@
 </p>
 
 <img 
-  src="https://media.licdn.com/dms/image/v2/D4E22AQGKNfxA72KoYw/feedshare-shrink_800/B4EZqEEChAKgAs-/0/1763152243460?e=1764806400&v=beta&t=M44u6kNcEMXqHobf_W6iQU_iUjmUZ9T7rMTCsUQTlDw" 
+  src="https://media.licdn.com/dms/image/v2/D4E22AQGyU8sneJaMRA/feedshare-shrink_800/B4EZqEM7q1HEAk-/0/1763154576458?e=1764806400&v=beta&t=tdoKyE_HHkmEcmVd4RBWt6KlRLT4g5yY7wspTMGLbGw" 
   alt="Banner" 
-  width="150" 
+  width="120" 
   align="right"
 />
 
