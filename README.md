@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Erick A.C. 👋</h1>
+<h1 align="center">👽 Hi, I'm Erick A.C. 🤖</h1>
 <p align="center">
   <b>Industrial & Systems Engineer | Data Engineering | Automation | Backend Dev | ML</b>
 </p>
