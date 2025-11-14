@@ -10,7 +10,7 @@
   align="right"
 />
 
-<p>
+<p style="color:#1f6feb;">
   <font size="5">
   <b>
     Automation has been responsible for many of my contribution gaps 😅. This industry has improved my skills in solving logical problems, especially since working with robots and PLCs requires strong logic for safety, sequencing, and monitoring. The same applies to my experience in software integration and modifications within the automotive industry, which helped me understand how data works, the different types of data involved, and how the data flows between servers, apps, PLCs, robots, and the visual interfaces.
