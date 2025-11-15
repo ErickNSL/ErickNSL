@@ -18,7 +18,17 @@
   </b>
   </font>
 </p>
-
+<img 
+  src="https://media.licdn.com/dms/image/v2/D4E22AQGyU8sneJaMRA/feedshare-shrink_800/B4EZqEM7q1HEAk-/0/1763154576458?e=1764806400&v=beta&t=tdoKyE_HHkmEcmVd4RBWt6KlRLT4g5yY7wspTMGLbGw" 
+  alt="Banner" 
+  width="120" 
+  align="right"
+/>
+<ul>
+  <li>Softwer Developer 💻</li>
+  <li>Automation Robot/PLC 🤖</li>
+  <li>Data Handler 🚀</li>
+</ul>
 
 
 
